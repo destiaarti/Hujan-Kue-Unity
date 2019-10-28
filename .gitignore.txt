@@ -1,0 +1,4 @@
+Assets/animation/*
+Assets/upil/*
+Assets/background/*
+Assets/scene/*
