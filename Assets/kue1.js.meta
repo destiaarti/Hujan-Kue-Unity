@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4dce70606a27a3e4da267575d9f37166
+timeCreated: 1486030047
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - kue: {fileID: 1669047279018652, guid: 832b2227e6723b54ea423bb2737d1489, type: 2}
+  - kue1: {fileID: 1256969837660398, guid: f0c91b7ff8fd79f4fa246f2635466598, type: 2}
+  - kue2: {fileID: 1054438632246648, guid: 1c39ea7a17c324f40b549f2548a1a740, type: 2}
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
